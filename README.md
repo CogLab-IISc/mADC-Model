@@ -3,6 +3,8 @@
 ## About
 The mADC model is a multi-dimensional extension of signal detection theory. It can be used to quantify the effects of perceptual sensitivity and choice bias in detection / change detection tasks with any number of alternatives.
 
+![mADC Schematic](https://github.com/CogLab-IISc/mADC-Model/mADC_schematic.png)
+
 ## Fitting the model
 
 ### Preparing data:
@@ -73,6 +75,7 @@ Data and code available at: https://figshare.com/s/b4b1f34ae4087420bd85
 
 [Sridharan D., Steinmetz N., Moore T., and Knudsen E., (2014 August) "Distinguishing bias from sensitivity effects in multialternative detection tasks" Journal of Vision.](https://jov.arvojournals.org/article.aspx?articleid=2194077)
 
+Code : http://purl.stanford.edu/mc140xy0456
 
 [Sridharan D., Steinmetz N., Moore T., and Knudsen E.,(2017 January) "Does the superior colliculus control perceptual sensitivity or choice bias during attention? Evidence from a multialternative decision framework." Journal of Neuroscience](https://www.jneurosci.org/content/37/3/480)
 
