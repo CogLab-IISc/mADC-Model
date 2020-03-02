@@ -3,7 +3,7 @@
 ## About
 The mADC model is a multi-dimensional extension of signal detection theory. It can be used to quantify the effects of perceptual sensitivity and choice bias in detection / change detection tasks with any number of alternatives.
 
-![mADC Schematic](https://github.com/CogLab-IISc/mADC-Model/mADC_schematic.PNG)
+![mADC Schematic](https://github.com/CogLab-IISc/mADC-Model/blob/master/mADC_schematic.PNG)
 
 ## Fitting the model
 
