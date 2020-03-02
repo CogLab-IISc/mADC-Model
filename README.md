@@ -63,19 +63,20 @@ Example: For a 2 alternative detection task with 2 stimulus strenghts (i.e. M = 
 
 ## References
 
-[Sagar V., Sengupta R., and Sridharan D. (2019, September) Dissociable sensitivity and bias mechanisms mediate behavioral effects of exogenous attention. Scientific Reports](https://www.nature.com/articles/s41598-019-42759-w) 
+[1] [Sridharan D., Steinmetz N., Moore T., and Knudsen E., (2014, August) Distinguishing bias from sensitivity effects in multialternative detection tasks. Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2194077)
+
+Code : http://purl.stanford.edu/mc140xy0456
+
+[2] [Sridharan D., Steinmetz N., Moore T., and Knudsen E. (2017, January) Does the superior colliculus control perceptual sensitivity or choice bias during attention? Evidence from a multialternative decision framework. Journal of Neuroscience](https://www.jneurosci.org/content/37/3/480)
+
+[3] [Sagar V., Sengupta R., and Sridharan D. (2019, September) Dissociable sensitivity and bias mechanisms mediate behavioral effects of exogenous attention. Scientific Reports](https://www.nature.com/articles/s41598-019-42759-w) 
 
 Data and code available at: https://datadryad.org/stash/dataset/doi:10.5061/dryad.s1725t6
 
-
-[Banarjee S., Grover S., Ganesh S., and Sridharan D. (2019, September) Sensory and decisional components of endogenous attention are dissociable. Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00257.2019)
+[4] [Banarjee S., Grover S., Ganesh S., and Sridharan D. (2019, September) Sensory and decisional components of endogenous attention are dissociable. Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00257.2019)
 
 Data and code available at: https://figshare.com/s/b4b1f34ae4087420bd85
 
 
-[Sridharan D., Steinmetz N., Moore T., and Knudsen E., (2014, August) Distinguishing bias from sensitivity effects in multialternative detection tasks. Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2194077)
 
-Code : http://purl.stanford.edu/mc140xy0456
-
-[Sridharan D., Steinmetz N., Moore T., and Knudsen E. (2017, January) Does the superior colliculus control perceptual sensitivity or choice bias during attention? Evidence from a multialternative decision framework. Journal of Neuroscience](https://www.jneurosci.org/content/37/3/480)
 
